@@ -1,7 +1,9 @@
 # テトリス
 
 JavaScript の Canvas API を使用して作成されたシンプルなテトリスゲームです。
-プログラミングの練習として作成しました。
+プログラミングの練習として、以下の YouTube 動画を見ながら写経しました。
+
+https://www.youtube.com/watch?v=LJlKaTwtSdI&list=PLa3BDwShqOrThKoaWauNo8EKZda4pat7Z
 
 ## プレイ方法
 - ブラウザで `index.html` を開いてください。
